@@ -1,4 +1,4 @@
-## This ros2 package will allow you to save Lidar PointCloud messages as pcd files.
+## This ros2 package will allow you to save lidar PointCloud messages as pcd files
 
 To run, first build the package then source the local environment by doing the following:
 
